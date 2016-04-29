@@ -1,0 +1,10 @@
+
+
+
+// Instantiate the module
+sbox instance_name (
+    .inp_block(inp_block), 
+    .out_block(out_block)
+    );
+
+

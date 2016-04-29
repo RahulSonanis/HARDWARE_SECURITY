@@ -1,0 +1,61 @@
+<========================Radial Kernel==============================>
+..*..*
+optimization finished, #iter = 4142
+nu = 0.039714
+obj = -246.860165, rho = -1.030830
+nSV = 2002, nBSV = 139
+Total nSV = 2002
+Accuracy for v[o] ===>
+Accuracy = 97.6333% (2929/3000) (classification)
+..*.*
+optimization finished, #iter = 3764
+nu = 0.035143
+obj = -217.359593, rho = -1.035770
+nSV = 1809, nBSV = 123
+Total nSV = 1809
+Accuracy for v[1] ===>
+Accuracy = 97.2667% (2918/3000) (classification)
+..*..*
+optimization finished, #iter = 4669
+nu = 0.049429
+obj = -306.349066, rho = -1.030478
+nSV = 2154, nBSV = 173
+Total nSV = 2154
+Accuracy for v[2] ===>
+Accuracy = 97.5333% (2926/3000) (classification)
+...*..*
+optimization finished, #iter = 5891
+nu = 0.073143
+obj = -451.980414, rho = -1.025508
+nSV = 2552, nBSV = 256
+Total nSV = 2552
+Accuracy for v[3] ===>
+Accuracy = 96.6667% (2900/3000) (classification)
+........*....*
+optimization finished, #iter = 12827
+nu = 0.348571
+obj = -2104.934280, rho = -0.934613
+nSV = 4930, nBSV = 1247
+Total nSV = 4930
+Accuracy for v[4] ===>
+Accuracy = 82.5667% (2477/3000) (classification)
+........*.....*
+optimization finished, #iter = 13011
+nu = 0.342000
+obj = -2069.354977, rho = -0.937782
+nSV = 4985, nBSV = 1232
+Total nSV = 4985
+Accuracy for v[5] ===>
+Accuracy = 82.6333% (2479/3000) (classification)
+    0.8237
+
+    0.8247
+
+    0.8220
+
+    0.8233
+
+    0.8207
+
+    0.9597
+

@@ -1,0 +1,5 @@
+xst -intstyle ise -ifn "E:/HS_ASSGN_SBOX/ASSGN2/sbox.xst" -ofn "E:/HS_ASSGN_SBOX/ASSGN2/sbox.syr" 
+vhdtdtfi -lib work E:/HS_ASSGN_SBOX/ASSGN2/sbox.v -lang verilog -prj ASSGN2 -o sbox.spl -module sbox -template C:/Xilinx/14.4/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family artix7 sbox.spl E:/HS_ASSGN_SBOX/ASSGN2/sbox.sym 
+vhdtdtfi -lang verilog -prj ASSGN2 -o E:/HS_ASSGN_SBOX/ASSGN2/sbox.tfi -lib work E:/HS_ASSGN_SBOX/ASSGN2//sbox.v -module sbox -template C:/Xilinx/14.4/ISE_DS/ISE//data/tfi.tft -deleteonerror 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc7a100t-csg324-3 sbox.ngc sbox.ngd  

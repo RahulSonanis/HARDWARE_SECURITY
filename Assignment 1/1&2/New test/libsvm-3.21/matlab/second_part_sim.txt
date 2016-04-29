@@ -1,0 +1,81 @@
+<========================Radial Kernel==============================>
+......*..*
+optimization finished, #iter = 8763
+nu = 0.781929
+obj = -3590.829913, rho = 0.172626
+nSV = 6399, nBSV = 4231
+Total nSV = 6399
+Accuracy for 1 APUF ===>
+Accuracy = 81.4667% (2444/3000) (classification)
+......*..*
+optimization finished, #iter = 8056
+nu = 0.793718
+obj = -3622.635590, rho = 0.003777
+nSV = 6384, nBSV = 4441
+Total nSV = 6384
+Accuracy for 2 APUF ===>
+Accuracy = 81.7333% (2452/3000) (classification)
+......*..*
+optimization finished, #iter = 8180
+nu = 0.791896
+obj = -3639.494838, rho = 0.112635
+nSV = 6394, nBSV = 4407
+Total nSV = 6394
+Accuracy for 3 APUF ===>
+Accuracy = 80.6% (2418/3000) (classification)
+......*..*
+optimization finished, #iter = 8616
+nu = 0.762367
+obj = -3503.813503, rho = -0.111194
+nSV = 6271, nBSV = 4133
+Total nSV = 6271
+Accuracy for 4 APUF ===>
+Accuracy = 80.8% (2424/3000) (classification)
+......*..*
+optimization finished, #iter = 8192
+nu = 0.791814
+obj = -3617.045058, rho = -0.084694
+nSV = 6387, nBSV = 4400
+Total nSV = 6387
+Accuracy for 5 APUF ===>
+Accuracy = 81.9333% (2458/3000) (classification)
+......*..*
+optimization finished, #iter = 8366
+nu = 0.791569
+obj = -3606.022298, rho = -0.017918
+nSV = 6409, nBSV = 4354
+Total nSV = 6409
+Accuracy for 6 APUF ===>
+Accuracy = 80.4% (2412/3000) (classification)
+......*..*
+optimization finished, #iter = 8340
+nu = 0.787687
+obj = -3607.332485, rho = 0.052178
+nSV = 6378, nBSV = 4372
+Total nSV = 6378
+Accuracy for 7 APUF ===>
+Accuracy = 81.8333% (2455/3000) (classification)
+......*..*
+optimization finished, #iter = 8867
+nu = 0.756060
+obj = -3496.770134, rho = -0.285282
+nSV = 6275, nBSV = 4079
+Total nSV = 6275
+Accuracy for 8 APUF ===>
+Accuracy = 80.7% (2421/3000) (classification)
+......*..*
+optimization finished, #iter = 8393
+nu = 0.780290
+obj = -3575.976902, rho = -0.075029
+nSV = 6369, nBSV = 4291
+Total nSV = 6369
+Accuracy for 9 APUF ===>
+Accuracy = 81.0333% (2431/3000) (classification)
+......*..*
+optimization finished, #iter = 8383
+nu = 0.782183
+obj = -3612.230584, rho = -0.188894
+nSV = 6366, nBSV = 4317
+Total nSV = 6366
+Accuracy for 10 APUF ===>
+Accuracy = 81.3333% (2440/3000) (classification)
